@@ -1,69 +1,42 @@
-# 👨‍🏫 Bienvenidos al Curso
+# <strong><em>👨‍🏫 Bienvenidos al Curso</em></strong>
 
-## Profesor: Manolo  
-### Asignaturas: Desarrollo de Interfaces & Sistemas de Gestión Empresarial
+## <strong><em>Profesor: Manolo</em></strong>
 
-![Profesor](https://via.placeholder.com/150) <!-- Aquí puedes poner una foto tuya, cambia el link con la URL de la imagen -->
 
----
+## <strong><em>🧑‍💼 Acerca de mí</em></strong>
 
-## 🧑‍💼 Acerca de mí
-
-¡Hola a todos! Mi nombre es **Manolo**, tengo **25 años** y seré vuestro profesor para las asignaturas **Desarrollo de Interfaces** y **Sistemas de Gestión Empresarial**. 
-
-- Tengo experiencia en desarrollo de software y sistemas empresariales.
-- Mi objetivo es que adquiráis habilidades en diseño de interfaces y la gestión de sistemas empresariales.
+¡Hola a todos! Como ya sabéis, mi nombre es ***Manolo***, tengo **25 años** y seré vuestro profesor en las asignaturas ***Desarrollo de Interfaces*** y ***Sistemas de Gestión Empresarial***.
 
 ---
 
-## 📚 Asignaturas
+## <strong><em>📚 Asignaturas</em></strong>
 
 ### 1. **Desarrollo de Interfaces**
 
-En esta asignatura vamos a cubrir los siguientes temas:
+<img src="https://www.farandsoft.com/newsite/wp-content/uploads/2017/08/software-empresarial-erp.jpg" alt="Asignatura 1" width="250"> 
 
-1. **Cuestionario Inicial (2 horas)**:  
-   Evaluaremos tus conocimientos en:
-   - **Git**
-   - **HTML & CSS**
-   - **SQL**
-   - **MongoDB**
+En esta asignatura, **durante las primeras semanas** vamos a cubrir los siguientes temas:
 
-2. **Maketación (2 semanas)**:  
-   Trabajaremos en la estructura y diseño de páginas web con **CSS**.
-
-3. **Cuestionario Inicial (Javascript)**:  
-   Tras la sección de maketación, realizaremos un cuestionario sobre **JavaScript**.
-
-4. **Clases de Repaso de JavaScript**:  
-   Exploraremos los conceptos clave de **JavaScript** antes de avanzar a la siguiente fase.
-
-5. **React**:  
-   Posteriormente, nos introduciremos en **React** para el desarrollo de aplicaciones web.
-
----
+1. **Cuestionario Inicial (2 horas)** sobre:
+   - Git, HTML, CSS, SQL, MongoDB
+2. **Maketación (2 semanas)** CSS.
+3. **Cuestionario Inicial (JavaScript)**.
+4. **Clases de Repaso de JavaScript**.
+5. **Introducción a React**.
 
 ### 2. **Sistemas de Gestión Empresarial (SGE)**
 
-En **SGE**, exploraremos cómo funcionan los **ERP-CRM** y desarrollaremos habilidades para manejar estos sistemas:
+<img src="https://t2informatik.de/en/wp-content/uploads/sites/2/2022/01/user-interface-smartpedia-t2informatik.png" alt="Asignatura 2" width="150"> 
 
-1. **Cuestionario Inicial (Python)**:  
-   Evaluaremos tus conocimientos de **Python** antes de empezar.
-
-2. **Clases de Python**:  
-   Daremos algunas clases teóricas para consolidar los conceptos clave de este lenguaje.
-
-3. **Marco Teórico del Funcionamiento Empresarial**:  
-   Haremos un repaso sobre cómo funcionan las empresas y sus procesos.
-
-4. **Odoo**:  
-   Finalmente, exploraremos el sistema de gestión empresarial **Odoo**.
+Igualmente, durante las primeras semanas, en SGE exploraremos:
+1. **Cuestionario Inicial (Python)**.
+2. **Clases Teóricas de Python**.
+3. **Marco Teórico del Funcionamiento Empresarial**.
+4. **Odoo** como sistema ERP.
 
 ---
 
-## 📅 Horarios
-
-A continuación tienes los horarios de ambas asignaturas:
+## <strong><em>📅 Horarios</em></strong>
 
 ### Desarrollo de Interfaces (DI)
 
@@ -85,29 +58,11 @@ A continuación tienes los horarios de ambas asignaturas:
 
 ---
 
-## 💡 Metodología de Enseñanza
+## <strong><em>💡 Metodología de Enseñanza</em></strong>
 
-- **Clases Teórico-Prácticas**: Empezaremos con teoría seguida de ejercicios prácticos para afianzar conceptos.
-- **Proyectos en Grupo**: Realizaremos proyectos colaborativos para aplicar lo aprendido a situaciones reales.
-- **Evaluación Continua**: Habrá cuestionarios, exámenes y proyectos que evaluarán vuestro progreso.
+Clases teórico-prácticas, proyectos en grupo y evaluación continua para medir vuestro progreso. Exámenes finales. Evaluamos cada R.A de la programación.
 
 ---
 
-## 🎯 Objetivos del Curso
-
-Al finalizar este curso, seréis capaces de:
-- Desarrollar **interfaces de usuario** funcionales y modernas.
-- Implementar sistemas de **gestión empresarial** eficaces utilizando **Odoo**.
-- Manejar herramientas y tecnologías como **React**, **CSS**, **ERP** y **Python**.
-
----
-
-## 📧 Contacto
-
+## <strong><em>📧 Contacto</em></strong>
 - **Email**: jherper751@g.educaand.es
-
----
-
-### 🌟 ¡Estoy deseando empezar este viaje juntos!
-
-Si tienes alguna duda o necesitas asistencia, no dudes en contactarme por correo electrónico. ¡Nos vemos en clase!
