@@ -1,6 +1,11 @@
 
 ## <strong><em>FORMULARIO INICIAL</em></strong>
-https://forms.gle/WTcxHcDhiv2XrYDE8
+https://forms.gle/WTcxHcDhiv2XrYDE8-> Cuestionario inicial  
+https://www.youtube.com/watch?v=HJErA1k95k8-> Instalación Python Windows 11  
+https://www.youtube.com/watch?v=i6j8jT_OdEU-> Instalación Python Windows 10  
+https://www.youtube.com/watch?v=HJErA1k95k8-> Instalación Ubuntu:  
+Ejecutar: sudo apt-get update    
+Ejecutar:sudo apt-get python3  
 
 # <strong><em>👨‍🏫 Bienvenidos al Curso</em></strong>
 
