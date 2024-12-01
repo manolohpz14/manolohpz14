@@ -31,7 +31,8 @@ En esta asignatura, **durante las primeras semanas** vamos a cubrir los siguient
 2. **Maketación (2 semanas)** CSS.
 3. **Cuestionario Inicial (JavaScript)**.
 4. **Clases de Repaso de JavaScript**.
-5. **Introducción a React**.
+5. **NodeJS**.
+6. **Introducción a React**.
 
 ### 2. **Sistemas de Gestión Empresarial (SGE)**
 
