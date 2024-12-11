@@ -1,4 +1,5 @@
-
+> [!IMPORTANT]
+> Todo el contenido en este README está supeditado a cambios
 ## <strong><em>FORMULARIO INICIAL</em></strong>
 https://forms.gle/4Sec9rPoK6qK8Quj7 Cuestionario inicial  
 https://www.youtube.com/watch?v=HJErA1k95k8 Instalación Python Windows 11  
