@@ -17,7 +17,7 @@ Ejecutar:sudo apt-get python3
 
 ¡Hola a todos! Como ya sabéis, mi nombre es ***Manolo***, tengo **25 años** y seré vuestro profesor en las asignaturas ***Desarrollo de Interfaces*** y ***Sistemas de Gestión Empresarial***.
 
----
+
 
 ## <strong><em>📚 Asignaturas</em></strong>
 
@@ -45,7 +45,7 @@ Igualmente, durante las primeras semanas, en SGE exploraremos:
 3. **Marco Teórico del Funcionamiento Empresarial**.
 4. **Odoo** como sistema ERP.
 
----
+
 
 ## <strong><em>📅 Horarios</em></strong>
 
@@ -67,13 +67,13 @@ Igualmente, durante las primeras semanas, en SGE exploraremos:
 | **Jueves** | 11:45 - 12:45                   |
 | **Viernes** | 9:15 - 10:15                   |
 
----
+
 
 ## <strong><em>💡 Metodología de Enseñanza</em></strong>
 
 Clases teórico-prácticas, proyectos en grupo y evaluación continua para medir vuestro progreso. Exámenes finales. Evaluamos cada R.A de la programación.
 
----
+
 
 ## <strong><em>📧 Contacto</em></strong>
 - **Email**: jherper751@g.educaand.es
